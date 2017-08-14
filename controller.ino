@@ -1,3 +1,9 @@
+/*
+ * Hamudi Hasan Sonet
+ * uiurobotics@gmail.com 
+ * President : UIU Robotics Club
+*/
+
 const int motorA1  = 5;
 const int motorA2  = 6;
 const int motorB1  = 10;
